@@ -11,7 +11,7 @@ email: id_ybs@hotmail.com
 description: > # this means to ignore newlines until "baseurl:"
 This is my personal website from codecademy.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://yogendrabs.github.io" # the base hostname & protocol for your site
 twitter_username: no twitter account :(
 github_username:  yogendrabs
 
