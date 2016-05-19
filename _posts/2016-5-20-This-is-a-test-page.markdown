@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "This is a test post"
-date:   2016-05-20 00:00:00 -0545
-categories: tests
+date:   2016-05-19 23:16:32 -0400
+categories: jekyll update
 ---
 
 {% highlight ruby %}
