@@ -11,7 +11,7 @@ email: id_ybs@hotmail.com
 description: "This is my personal website from codecademy."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yogendrabs.github.io" # the base hostname & protocol for your site
-twitter_username: no twitter account :(
+twitter_username: no twitter :(
 github_username:  yogendrabs
 
 # Build settings
